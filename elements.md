@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Box
+title: Elements
 ---
 
 <!-- Main -->
@@ -10,7 +10,7 @@ title: Box
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Box</h1>
+			<h1>Elements</h1>
 		</header>
 
 <!-- Content -->
@@ -43,7 +43,7 @@ title: Box
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Box</h2>
+<h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
