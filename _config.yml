@@ -4,7 +4,7 @@ subtitle: by Rony de Freitas
 email: caixasgiftbox@gmail.com
 description: A surpresa começa pela embalagem.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://threefingers.gitlab.io" # the base hostname & protocol for your site
+url: "https://threefingers.github.io" # the base hostname & protocol for your site
 # url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
