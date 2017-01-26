@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'GiftBox - O Presente começa pela caixa'
 description: null
 image: null
 author: null
