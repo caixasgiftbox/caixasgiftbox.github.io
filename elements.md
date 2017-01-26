@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Página 2
 ---
 
 <!-- Main -->
